@@ -8,6 +8,21 @@ This tool automatically installs all essential drivers for the **ThinkPad T41** 
 
 ---
 
+## Install
+
+1. Extract the .zip found in the Latest Release to a USB or DISC
+2. Plug-In or Insert the Drive into the WindowsXP Laptop you need Drivers on
+3. Run the Install.vbx Script with Admin Privalges
+4. Run Though the Software Wizards until it says Install Complete, If it does not and just stops, You can Manually Reboot your Computer
+
+> [!WARNING]
+> In the Middle of the Graphics Driver Installer your screen May Blink a Couple times, This is Expected! It is installing the New Drivers
+
+> [!NOTE]
+> If you Run into Issues, Please, Please, Please create a Issue in Github
+
+---
+
 ## Included Drivers
 
 1. **Graphics** – ATI/Intel video driver
